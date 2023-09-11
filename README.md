@@ -26,7 +26,7 @@ Agrega capturas de pantalla de tu proyecto aquí si es necesario.
 
 ## Demo en Vivo
 
-[AGRISOFT](https://kevinrivera1.github.io/AGRISOFT-V1/)
+[DEMO EN VIVO](https://kevinrivera1.github.io/WEB-PIKCENTER/)
 
 ## Tecnologías Utilizadas
 
@@ -40,7 +40,7 @@ Para usar **AGRISOFT** en tu propio entorno, sigue estos pasos:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/KevinRivera1/AGRISOFT-V1.git
+   git clone https://github.com/KevinRivera1/WEB-PIKCENTER.git
     ```
 
 2. Abre el proyecto en tu editor de código favorito.
