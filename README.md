@@ -22,7 +22,9 @@ La página web en cuestión se presenta como un dinámico portal de articulos de
 
 ## Capturas de Pantalla
 
-Agrega capturas de pantalla de tu proyecto aquí si es necesario.
+ <div align="center">
+      <img src="./img/cap-img-pik.png" alt="PikCenter">
+</div>
 
 ## Demo en Vivo
 
