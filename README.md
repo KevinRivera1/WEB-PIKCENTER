@@ -1,6 +1,6 @@
 # PikCenter
 
-La página web en cuestión es un portal de noticias en línea que ofrece a los usuarios acceso a una variedad de noticias y artículos de actualidad.
+La página web en cuestión es un portal de articulos para mascotas en línea que ofrece a los usuarios acceso a una variedad de productos de la actualidad.
 
 ## Tabla de Contenidos
 
@@ -18,7 +18,7 @@ La página web en cuestión es un portal de noticias en línea que ofrece a los 
 
 ## Descripción
 
-La página web en cuestión se presenta como un dinámico portal de noticias en línea, donde los usuarios tienen la posibilidad de acceder a una amplia gama de noticias y artículos de actualidad.
+La página web en cuestión se presenta como un dinámico portal de articulos de mascotas, donde los usuarios tienen la posibilidad de acceder a una amplia gama de productos y artículos de actualidad.
 
 ## Capturas de Pantalla
 
@@ -26,7 +26,7 @@ Agrega capturas de pantalla de tu proyecto aquí si es necesario.
 
 ## Demo en Vivo
 
-Si tienes una demo en vivo de tu proyecto, proporciónala aquí.
+[AGRISOFT](https://kevinrivera1.github.io/AGRISOFT-V1/)
 
 ## Tecnologías Utilizadas
 
